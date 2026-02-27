@@ -1,0 +1,27 @@
+[
+  {
+    "model": "system.sitesettings",
+    "pk": 1,
+    "fields": {
+      "company_name": "project_landing",
+      "site_base_url": "",
+      "logo_url": "/static/img/logo.webp",
+      "email": "info@project_landing.com",
+      "phone": "+1 000 000 0000",
+      "address": "",
+      "working_hours": "Mo-Fr: 09:00 - 18:00",
+      "instagram_url": "https://instagram.com/project_landing",
+      "facebook_url": "https://facebook.com/project_landing",
+      "telegram_channel_url": "https://t.me/project_landing_channel",
+      "telegram_client_bot_url": "https://t.me/project_landing_bot",
+      "whatsapp_url": "",
+      "meta_title": "project_landing — Official Website",
+      "meta_description": "Welcome to project_landing. Discover our services and features.",
+      "favicon_url": "/static/img/favicon.ico",
+      "telegram_admin_channel_id": "",
+      "telegram_technical_bot_username": "",
+      "telegram_notification_topic_id": null,
+      "telegram_topics": {}
+    }
+  }
+]
